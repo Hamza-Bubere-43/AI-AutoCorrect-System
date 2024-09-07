@@ -1,3 +1,3 @@
-![image](https://github.com/user-attachments/assets/c9e4275a-c51f-4629-862a-2e5cb1325d99)
+AutoCorrect System
 
-resource/autocorrection.gif
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/Hamza-Bubere-43/AI-AutoCorrect-System/blob/master/resource/autocorrection.gif))
